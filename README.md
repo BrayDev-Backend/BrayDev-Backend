@@ -1,87 +1,72 @@
-👋 Hi, I'm Brayan Perez | Backend Developer in Training
+👨‍💻 Brayan Perez
+🎓 Final Year Software Engineering Student | 🚀 Aspiring Backend Developer
+📖 About Me
 
-Software Engineering Student & Boot.dev Learner
-I'm an eighth-semester Software Engineering student with a sharp focus on backend systems. I'm currently advancing my practical, industry-ready skills through the intensive Backend Developer Path at Boot.dev, complementing my formal university education with hands-on, project-based learning.
-🧠 About Me
+I'm an eighth-semester Software Engineering student deeply focused on backend systems architecture and development. I'm actively enhancing my practical, industry-aligned skills through the structured Backend Developer Path on Boot.dev, which perfectly complements my theoretical university education with a rigorous, project-based approach.
 
-    🎓 Final Year Software Engineering Student – Building a strong theoretical foundation in algorithms, data structures, and system design.
+My Coding Philosophy: I firmly believe in the principle of "writing a lot of code to learn," focusing on building scalable, efficient, and well-documented systems from the ground up.
+🧠 What I'm Mastering (Boot.dev Curriculum)
 
-    🎯 Backend Enthusiast – Passionate about building scalable, efficient, and reliable server-side logic, APIs, and databases.
+I'm following a comprehensive, gamified learning path designed to transform foundational knowledge into professional backend engineering skills. Here’s a breakdown of my journey:
+Module	Core Technologies & Concepts	Key Skills & Outcomes
+🧱 Foundational Programming	Python 3, Linux/CLI, Git & GitHub, Algorithms & Data Structures	Writing clean, efficient code, complex problem-solving, understanding time/space complexity, and proficient version control.
+🌐 Web & Backend Fundamentals	HTTP/HTTPS, RESTful API Design, Web Architecture	Understanding the client-server model, designing stateless APIs, and handling network communication.
+🗃️ Databases & Persistence	SQL (SQLite), Relational Design, Data Modeling & Normalization	Designing robust database schemas, writing complex queries (JOINs, subqueries), and applying ACID principles.
+⚡ Advanced Backend with Go	Go (Golang), Concurrency (Goroutines, Channels), Standard Library	Building high-performance, concurrent network services and microservices, leveraging Go's simplicity and power.
+🐳 Systems & Deployment	Docker (Containers), Basic Microservices Concepts	Creating reproducible environments, containerizing applications, and understanding modern deployment workflows.
+📈 Production-Ready Systems	Caching Strategies, Message Queues (Pub/Sub), Logging, Monitoring	Architecting for scalability, performance optimization, and implementing system observability.
+🎯 Capstone Project	Full-Stack Integration, System Design, Professional Best Practices	Synthesizing all learned concepts to design, build, document, and deploy an original, portfolio-ready backend application.
+🏗️ Project Portfolio
 
-    🛠️ Practical Learner – I believe the best way to learn is by doing. I'm following the Boot.dev philosophy of "write code, not just tutorials," actively applying every concept through projects.
+A growing collection of hands-on projects that demonstrate my applied learning.
+🔗 Link Parser & SEO Analyzer | Python
 
-    🚀 Goal-Oriented – My current mission is to bridge academic knowledge with modern backend development practices to become job-ready.
+(A guided project from the Boot.dev curriculum)
 
-📚 Boot.dev Backend Curriculum & Skills
+    Built a web crawler to parse HTML, extract links, and analyze site structure for SEO insights.
+    Tech Stack: Python, requests, BeautifulSoup, Recursion.
+    Core Concepts: Web Scraping, HTML Parsing, Data Extraction, Tree Traversal.
 
-Here's a structured overview of the technical skills and concepts I'm mastering through my Boot.dev learning path:
-Module	Core Technologies & Concepts	Key Skills Acquired
-🐍 Foundational Programming	Python, Linux CLI, Git, Algorithms & Data Structures	Writing clean code, problem-solving, version control, and understanding time/space complexity.
-🔗 Intro to Backend	HTTP/HTTPS, Web APIs, RESTful Principles	How the web works, client-server communication, and designing API endpoints.
-🗄️ Databases & Storage	SQL (SQLite), Data Modeling, Normalization	Designing relational schemas, writing complex queries, and understanding ACID properties.
-⚙️ Advanced Backend with Go	Go (Golang), Concurrency, Goroutines, Channels	Building performant, concurrent services and leveraging Go's strengths for backend systems.
-🐳 Containers & Deployment	Docker, Containerization, Microservices Concepts	Creating consistent development/production environments and understanding service architecture.
-📈 Production Systems	Caching, Message Queues (Pub/Sub), Logging, Monitoring	Architecting systems for scale, performance, and observability.
-🎓 Capstone Project	Full-Stack Integration, Project Design, Best Practices	Synthesizing all skills to build, document, and deploy a complete backend application.
-🏗️ Projects
+⚙️ Static Site Generator | Go
 
-This section will grow as I progress. Each project is a building block in my backend expertise.
-🔗 Link Parser & SEO Analyzer (Python)
+(A guided project from the Boot.dev curriculum)
 
-(Guided Project from Boot.dev)
+    Developed a CLI tool that converts directories of Markdown files into a functional, styled static website.
+    Tech Stack: Go, File I/O, Text/HTML Templates, CLI Arguments.
+    Core Concepts: Command-Line Tool Development, Code Organization, Templating Engines.
 
-    Built a tool to parse HTML and extract links, analyzing site structure for SEO.
+🚧 Capstone Project:
 
-    Tech: Python, requests & beautifulsoup4 libraries, HTTP.
+(The culminating project of the Boot.dev path – Coming Soon!)
 
-    Concepts: Web scraping, recursion, data extraction.
+    A full-featured backend application that will integrate database design, REST API creation, authentication, concurrency, and containerized deployment.
 
-⚙️ Static Site Generator (Go)
+💻 Tech Stack & Toolkit
+Languages
 
-(Guided Project from Boot.dev)
+Python · Go (Golang) · SQL · Bash/Shell
+Backend & Databases
 
-    Developed a command-line tool that converts Markdown content into a static HTML website.
+RESTful APIs · HTTP/HTTPS · SQLite · PostgreSQL · Data Modeling
+DevOps & Tools
 
-    Tech: Go, File I/O, Text Templates.
+Git · Docker · Linux · Github Actions (Basic) · Markdown
+Currently Deepening My Knowledge In
 
-    Concepts: CLI development, code organization, templating.
+System Design · Message Queues (Pub/Sub) · Advanced Concurrency Patterns in Go · Application Monitoring
+🗺️ My Learning Roadmap (2024)
+Status	Goal
+✅	Foundation: Complete core CS modules (Algorithms, Data Structures).
+🔄	In Progress: Master backend fundamentals with Go and complete guided projects.
+⬜	Advanced Systems: Dive into production-grade topics (caching, queues, observability).
+⬜	Capstone Development: Design, build, and deploy my original Capstone project.
+⬜	Career Launch: Finalize portfolio, optimize resume, and prepare for backend developer interviews.
+📫 Let's Connect & Collaborate!
 
-🚧 Capstone Project: (Coming Soon)
+I'm always eager to connect with fellow developers, discuss interesting tech, or explore collaboration opportunities on backend projects.
 
-    A comprehensive backend application that will integrate databases, APIs, concurrency, and deployment. This will be the culmination of my Boot.dev path.
+    🔗 LinkedIn: https://www.linkedin.com/in/brayan-perez-back-dev/
 
-💻 Tech Stack & Tools
+    📧 Email: brayanperezdev@gmail.com
 
-    Languages: Python, Go (Golang), SQL
-
-    Backend: HTTP/REST, API Design, Concurrency
-
-    Databases: SQLite, PostgreSQL (exposure via curriculum)
-
-    DevOps & Tools: Git, Docker, Linux Command Line, Markdown
-
-    Currently Learning: System Design, Message Queues, Advanced Go Patterns
-
-🗺️ Learning Roadmap (2024 - 2025)
-
-    ✅ Foundation: Complete core Computer Science modules (Algorithms, Data Structures).
-
-    🟡 In Progress: Master backend fundamentals with Go and build several guided projects.
-
-    ⬜ Advanced Topics: Dive into production-grade topics like caching, queues, and monitoring.
-
-    ⬜ Capstone & Portfolio: Design, build, and deploy my original Capstone project.
-
-    ⬜ Career Launch: Polish my GitHub, resume, and prepare for backend developer roles.
-
-📫 Let's Connect!
-
-I'm always open to discussing technology, collaboration on interesting backend projects, or receiving feedback.
-
-    LinkedIn: https://www.linkedin.com/in/brayan-perez-back-dev/
-
-    Portfolio/Blog: (Coming Soon)
-
-    Email: brayanperezdev@gmail.com
-
-“This README reflects my structured learning journey through the Boot.dev Backend Developer Path. The curriculum provides a project-based, gamified approach to mastering modern backend engineering.”
+    “The structured learning journey reflected here is powered by the project-based, gamified curriculum of the Boot.dev Backend Developer Path. It emphasizes writing production-quality code and understanding fundamental computer science concepts.”
