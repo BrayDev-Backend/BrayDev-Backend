@@ -100,16 +100,9 @@ I'm following a comprehensive, gamified learning path designed to transform foun
 
 I'm always eager to connect with fellow developers, discuss interesting tech, or explore collaboration opportunities on backend projects.
 
-*   **🔗 LinkedIn:** [Your LinkedIn Profile URL]
-*   **🐙 GitHub:** [Your GitHub Profile URL]
-*   **📧 Email:** [your.email@example.com]
+*   **🔗 LinkedIn:** [https://www.linkedin.com/in/brayan-perez-back-dev/]
+*   **📧 Email:** [brayanperezdev@gmail.com]
 
 ---
 
 > *“The structured learning journey reflected here is powered by the project-based, gamified curriculum of the [Boot.dev Backend Developer Path](https://boot.dev). It emphasizes writing production-quality code and understanding fundamental computer science concepts.”*
-
-    🔗 LinkedIn: https://www.linkedin.com/in/brayan-perez-back-dev/
-
-    📧 Email: brayanperezdev@gmail.com
-
-    “The structured learning journey reflected here is powered by the project-based, gamified curriculum of the Boot.dev Backend Developer Path. It emphasizes writing production-quality code and understanding fundamental computer science concepts.”
