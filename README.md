@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/24d35aac-9959-488b-b6d7-b33783acf2dc/thumbnail" >
+</p>
+
 # 👨‍💻 **Brayan Perez**
 
 ### 🎓 **Final Year Software Engineering Student** | 🚀 **Aspiring Backend Developer**
